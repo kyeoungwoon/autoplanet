@@ -1,0 +1,42 @@
+modules/credentials/
+autoplanet-dev-f71e3776ac0d.json
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Distribution / Packaging
+*.egg-info/
+dist/
+build/
+*.whl
+
+# 환경 변수 파일
+.env
+
+# Python Test Files
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# 기타
+*.DS_Store
+*.bak
+*.tmp
